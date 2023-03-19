@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="http://s01.flagcounter.com/more/O9"><img src="https://s01.flagcounter.com/countxl/O9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <!--
 **kusokanada/kusokanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
